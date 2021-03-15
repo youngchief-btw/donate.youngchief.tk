@@ -6,7 +6,7 @@ I only accept cryptocurrency (I prefer sending to my [Nano](https://go.youngchie
 
 - If you want more flexiblity use **[CoinStation](https://go.youngchief.tk/?url=https://github.com/youngchief-btw/CoinStation)** (coming soon)
 
-- If you want to use $$ from many other payment methods not accepted below, go [here](https://go.youngchief.tk/?url=Paxful) (only for Bitcoin sry), 
+- If you want to use $$ from many other payment methods not accepted below, go [here](https://go.youngchief.tk/?url=Paxful) (only for Bitcoin sry),
 
 - If you want to use a credit/debit/prepaid card (or even a bank account in some cases), look [here](https://go.youngchief.tk/?url=https://www.thebalance.com/best-places-to-buy-bitcoin-4170081) for the one that suits you
 
